@@ -69,10 +69,10 @@ Use the above to answer the following questions:
 * Naive Random and SMOTE Oversampling had the best balanced accuracy score of  0.9936781215845847
 
 ## Which model had the best recall score?
-* 
+* SMOTE oversampling, Random Oversampling, and Combination (SMOTEENN) had the best recall score.
 
 ## Which model had the best geometric mean score?
-* SMOTE oversampling, ClusterCentroids UnderSampling and SMOTEENN have the best geometric mean score of 0.99
+* Random Oversampling, SMOTE oversampling, ClusterCentroids UnderSampling and SMOTEENN have the best geometric mean score of 0.99
 
 #### Ensemble Learning
 
