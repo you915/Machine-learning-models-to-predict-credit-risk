@@ -48,6 +48,20 @@ For each of the above, you will need to:
 
 4. Print the `imbalanced classification report` from `imblearn.metrics`.
 
+## Accuracy Score, confusion matrix, and classification report for simple logistic regression
+![simple reg](Images/simple_reg.JPG)
+
+## Accuracy Score, confusion matrix, and classification report for random_oversampling
+![random_over_sam](Images/random_over_sam.JPG)
+
+## Accuracy Score, confusion matrix, and classification report for smote_oversampling
+![smote_oversampling](Images/smote_over_sam.JPG)
+
+## Accuracy Score, confusion matrix, and classification report for undersampling
+![under_sam](Images/under_sam.JPG)
+
+## Accuracy Score, confusion matrix, and classification report for smoteenn
+![smoteenn](Images/smoteenn.JPG)
 
 Use the above to answer the following questions:
 
@@ -76,6 +90,11 @@ Complete the following steps for each model:
 
 5. For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
 
+## Accuracy Score, confusion matrix, and classification report for easy ensemble classifier
+![easy ensemble classifier](Images/easy_ensemble.JPG)
+
+## Accuracy Score, confusion matrix, and classification report for Balanced Random Forest Classifier
+![Balanced Random Forest Classifier](Images/balanced_random_forest.JPG)
 
 Use the above to answer the following questions:
 
