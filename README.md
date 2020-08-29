@@ -60,7 +60,7 @@ For each of the above, you will need to:
 ## Accuracy Score, confusion matrix, and classification report for undersampling
 ![under_sam](Images/under_sam.JPG)
 
-## Accuracy Score, confusion matrix, and classification report for smoteenn
+## Accuracy Score, confusion matrix, and classification report for Combination (smoteenn)
 ![smoteenn](Images/smoteenn.JPG)
 
 Use the above to answer the following questions:
@@ -112,6 +112,7 @@ Use the above to answer the following questions:
 1) Borrower Income - 0.21788480603139448
 2) Interest Rate - 0.19595880072166166
 3) Debt to income - 0.1770964986362893
+
 
 - - -
 
