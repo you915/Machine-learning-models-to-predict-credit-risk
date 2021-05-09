@@ -23,8 +23,6 @@ In this assignment you will build and evaluate several machine learning models t
 
 - - -
 
-### Instructions
-
 #### Resampling
 
 Use the [imbalanced learn](https://imbalanced-learn.readthedocs.io) library to resample the LendingClub data and build and evaluate logistic regression classifiers using the resampled data.
@@ -113,26 +111,6 @@ Use the above to answer the following questions:
 2) Interest Rate - 0.19595880072166166
 3) Debt to income - 0.1770964986362893
 
-
-- - -
-
-### Hints and Considerations
-
-Use the quarterly data from the LendingClub data provided in the `Resources` folder. Keep the file in the zipped format and use the starter code to read the file.
-
-Refer to the [imbalanced-learn](https://imbalanced-learn.readthedocs.io/en/stable/) and [scikit-learn](https://scikit-learn.org/stable/) official documentation for help with training the models. Remember that these models all use the model->fit->predict API.
-
-For the ensemble learners, use 100 estimators for both models.
-
-- - -
-
-### Submission
-
-* Create Jupyter notebooks for the homework and host the notebooks on GitHub.
-
-* Include a markdown that summarizes your homework and include this report in your GitHub repository.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
 
 - - -
 
